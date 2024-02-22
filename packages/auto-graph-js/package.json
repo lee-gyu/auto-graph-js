@@ -8,10 +8,13 @@
     },
     "type": "module",
     "scripts": {
-        "dev": "pnpm clean && tsc --build --watch",
+        "dev": "pnpm clean && tsc --watch",
         "clean": "tsc --build --clean"
     },
     "keywords": [],
     "author": "Lee Gyu <leegyu4dev@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "d3": "^7.8.5"
+    }
 }
