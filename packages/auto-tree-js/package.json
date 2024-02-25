@@ -1,5 +1,5 @@
 {
-    "name": "@lee-gyu/auto-graph-js",
+    "name": "@lee-gyu/auto-tree-js",
     "version": "0.1.0",
     "description": "",
     "main": ".build/index.mjs",
